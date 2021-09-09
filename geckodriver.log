@@ -1,0 +1,98 @@
+1631153965640	geckodriver	INFO	Listening on 127.0.0.1:63411
+1631153968710	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADM\\AppData\\Local\\Temp\\rust_mozprofileB99TOa"
+1631153969502	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADM\\AppData\\Local\\Temp\\rust_mozprofileB99TOa\\search.json.mozlz4", (void 0)))
+1631153973229	Marionette	INFO	Listening on port 50844
+1631153973497	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADM\\AppData\\Local\\Temp\\rust_mozprofileKBcnxT"
+1631154013908	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADM\\AppData\\Local\\Temp\\rust_mozprofileKBcnxT\\search.json.mozlz4", (void 0)))
+1631154018013	Marionette	INFO	Listening on port 65357
+1631154018187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADM\\AppData\\Local\\Temp\\rust_mozprofileqkCNq3"
+1631154052680	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADM\\AppData\\Local\\Temp\\rust_mozprofileqkCNq3\\search.json.mozlz4", (void 0)))
+1631154056185	Marionette	INFO	Listening on port 59602
+1631154056280	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADM\\AppData\\Local\\Temp\\rust_mozprofileytPIKi"
+1631154124560	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADM\\AppData\\Local\\Temp\\rust_mozprofileytPIKi\\search.json.mozlz4", (void 0)))
+1631154128207	Marionette	INFO	Listening on port 51070
+1631154128280	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADM\\AppData\\Local\\Temp\\rust_mozprofilexRptTh"
+1631154150646	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADM\\AppData\\Local\\Temp\\rust_mozprofilexRptTh\\search.json.mozlz4", (void 0)))
+1631154154492	Marionette	INFO	Listening on port 62192
+1631154154711	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADM\\AppData\\Local\\Temp\\rust_mozprofilezKBq3a"
+1631154191407	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADM\\AppData\\Local\\Temp\\rust_mozprofilezKBq3a\\search.json.mozlz4", (void 0)))
+1631154195140	Marionette	INFO	Listening on port 56937
+1631154195597	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://177.124.184.59:5660"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://177.124.184.59:5660"
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADM\\AppData\\Local\\Temp\\rust_mozprofile8qYzHw"
+1631154558303	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADM\\AppData\\Local\\Temp\\rust_mozprofile8qYzHw\\search.json.mozlz4", (void 0)))
+1631154561933	Marionette	INFO	Listening on port 52668
+1631154562360	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADM\\AppData\\Local\\Temp\\rust_mozprofileHA0X94"
+1631154780592	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADM\\AppData\\Local\\Temp\\rust_mozprofileHA0X94\\search.json.mozlz4", (void 0)))
+1631154784705	Marionette	INFO	Listening on port 65008
+1631154785115	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADM\\AppData\\Local\\Temp\\rust_mozprofileE0f78x"
+1631154900703	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADM\\AppData\\Local\\Temp\\rust_mozprofileE0f78x\\search.json.mozlz4", (void 0)))
+1631154904849	Marionette	INFO	Listening on port 51913
+1631154905179	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADM\\AppData\\Local\\Temp\\rust_mozprofile4PYiCR"
+1631154939723	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADM\\AppData\\Local\\Temp\\rust_mozprofile4PYiCR\\search.json.mozlz4", (void 0)))
+1631154944090	Marionette	INFO	Listening on port 64032
+1631154944247	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADM\\AppData\\Local\\Temp\\rust_mozprofileidmtqE"
+1631154983430	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADM\\AppData\\Local\\Temp\\rust_mozprofileidmtqE\\search.json.mozlz4", (void 0)))
+1631154987299	Marionette	INFO	Listening on port 52322
+1631154987619	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADM\\AppData\\Local\\Temp\\rust_mozprofileSQJ35r"
+1631155072245	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADM\\AppData\\Local\\Temp\\rust_mozprofileSQJ35r\\search.json.mozlz4", (void 0)))
+1631155076509	Marionette	INFO	Listening on port 59329
+1631155076842	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631155112900	geckodriver	INFO	Listening on 127.0.0.1:50939
+1631155115937	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADM\\AppData\\Local\\Temp\\rust_mozprofileRqQPIR"
+1631155116629	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADM\\AppData\\Local\\Temp\\rust_mozprofileRqQPIR\\search.json.mozlz4", (void 0)))
+1631155121030	Marionette	INFO	Listening on port 54720
+1631155121304	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1631155177562	geckodriver	INFO	Listening on 127.0.0.1:56483
+1631155180601	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADM\\AppData\\Local\\Temp\\rust_mozprofileAd19Qh"
+1631155181292	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADM\\AppData\\Local\\Temp\\rust_mozprofileAd19Qh\\search.json.mozlz4", (void 0)))
+1631155185281	Marionette	INFO	Listening on port 61675
+1631155185477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
