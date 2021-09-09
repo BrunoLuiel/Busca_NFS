@@ -38,5 +38,5 @@ class Busca_NFS:
 
 boot = Busca_NFS('32375442000109', '32375')
 boot.login()
-boot.consulta_nfs('01/08/2021', '31/08/2021')
+boot.consulta_nfs('01/08/2021', '30/08/2021')
 

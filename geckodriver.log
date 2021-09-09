@@ -83,16 +83,26 @@ console.log: WebExtensions: reset-default-search: No addons in our list are inst
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADM\\AppData\\Local\\Temp\\rust_mozprofileSQJ35r\\search.json.mozlz4", (void 0)))
 1631155076509	Marionette	INFO	Listening on port 59329
 1631155076842	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1631155112900	geckodriver	INFO	Listening on 127.0.0.1:50939
-1631155115937	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADM\\AppData\\Local\\Temp\\rust_mozprofileRqQPIR"
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADM\\AppData\\Local\\Temp\\rust_mozprofileRqQPIR"
 1631155116629	Marionette	INFO	Marionette enabled
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADM\\AppData\\Local\\Temp\\rust_mozprofileRqQPIR\\search.json.mozlz4", (void 0)))
 1631155121030	Marionette	INFO	Listening on port 54720
 1631155121304	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
-1631155177562	geckodriver	INFO	Listening on 127.0.0.1:56483
-1631155180601	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADM\\AppData\\Local\\Temp\\rust_mozprofileAd19Qh"
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADM\\AppData\\Local\\Temp\\rust_mozprofileAd19Qh"
 1631155181292	Marionette	INFO	Marionette enabled
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADM\\AppData\\Local\\Temp\\rust_mozprofileAd19Qh\\search.json.mozlz4", (void 0)))
 1631155185281	Marionette	INFO	Listening on port 61675
 1631155185477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADM\\AppData\\Local\\Temp\\rust_mozprofilevLFSoZ"
+1631155306463	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADM\\AppData\\Local\\Temp\\rust_mozprofilevLFSoZ\\search.json.mozlz4", (void 0)))
+1631155311058	Marionette	INFO	Listening on port 50092
+1631155311318	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
